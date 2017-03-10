@@ -37,6 +37,7 @@
     "url": "git://github.com/mapbox/node-sqlite3.git"
   },
   "dependencies": {
+    "node-pre-gyp": "~0.6.31"
   },
   "bundledDependencies": [		
   ],
